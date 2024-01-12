@@ -5,8 +5,8 @@
 <!--
 <img src="https://github.com/berkcancabuk/berkcancabuk/blob/d5c8f5d0c4dbfca04ade2db8ef78a7e20d9c8710/JesseDancingGif.gif" align="right" width="230">
 -->
--🔭 I’m currently working on Unity and Unreal Engine projects<br/>
--🌱 I’m currently learning Game Development and C++<br/>  
+-🔭 I’m currently working on Unity projects<br/>
+-🌱 I’m currently learning Game Development and C#<br/>  
 <br/> 
 <br/> 
 
